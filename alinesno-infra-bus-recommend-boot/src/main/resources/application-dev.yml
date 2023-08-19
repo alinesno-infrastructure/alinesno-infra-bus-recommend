@@ -1,0 +1,10 @@
+server:
+  port: 30501
+
+# spring 配置
+spring:
+  application:
+    name: alinesno-infra-bus-recommend-boot
+  devtools:
+    restart:
+      enabled: true

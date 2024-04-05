@@ -33,7 +33,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.alinesno.infra.bus</groupId>
-			<artifactId>alinesno-infra-bus-recommend-api</artifactId>
+			<artifactId>alinesno-infra-bus-recommend-gateway</artifactId>
 			<version>${revision}</version>
 		</dependency>
 
